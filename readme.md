@@ -1,7 +1,10 @@
-# <div align="center">Hi there, I'm Karan Lubhana! 👋</div>
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/type=soft&color=auto&height=300&section=header&text=Karan%20Lubhana&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</div>
 
 <div align="center">
-  <img src="./github_profile_banner.png" alt="Karan Lubhana's Banner" width="100%">
+  <h3>Hi there, I'm Karan Lubhana! 👋</h3>
+  <p>Android Developer | UI/UX Enthusiast | Kotlin Specialist</p>
 </div>
 
 ---
@@ -29,7 +32,7 @@ I'm a passionate **Android Developer** and **UI/UX enthusiast** with a deep love
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaranLubhana&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
@@ -41,16 +44,8 @@ I'm a passionate **Android Developer** and **UI/UX enthusiast** with a deep love
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranLubhana&theme=tokyonight" alt="Streak Stats">
 </div>
 
----
-
-### 🎨 Contribution Art & 3D Graph
-
 <div align="center">
-  <img src="./github-contribution-grid-snake.svg" alt="Snake Game">
-</div>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranLubhana&theme=tokyonight" alt="Activity Graph">
 </div>
 
 ---
