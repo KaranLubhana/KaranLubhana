@@ -48,6 +48,14 @@ I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a
 
 ---
 
+### 🕹️ Fun & Games
+
+<div align="center">
+  <img src="https://pacman.abozanona.me?username=KaranLubhana" alt="Pacman Game" />
+</div>
+
+---
+
 ### 🤝 Connect with Me
 
 <div align="center">
