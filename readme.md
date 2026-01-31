@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&size=25&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;Data+Analyst;Python+Specialist;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaranLubhana&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
 ---
 
 ### 🚀 About Me
@@ -31,12 +27,7 @@ I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a
 
 ---
 
-### 📊 Dashboard & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranLubhana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranLubhana&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+### 📊 Dashboard & Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranLubhana&theme=tokyonight&hide_border=true" alt="Activity Graph" />
