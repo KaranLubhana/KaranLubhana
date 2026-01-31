@@ -64,7 +64,7 @@ I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+  <a href="https://www.linkedin.com/in/karan-lubhana-2a3781244/[YOUR_LINKEDIN]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/[YOUR_TWITTER]">
