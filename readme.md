@@ -63,5 +63,4 @@ I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KaranLubhana&label=Profile%20Views&color=4285F4&style=flat" alt="Visitor Count" />
   <br>
-  <sub>Generated with ❤️ by Antigravity 🌌</sub>
 </div>
