@@ -26,7 +26,7 @@ I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,mongodb,tensorflow,pytorch,sklearn,matlab,tableau&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,powerbi,excel,jupyter,tableau,git,github,vscode&theme=dark" alt="Skill Icons" />
 </div>
 
 ---
@@ -60,6 +60,12 @@ I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a
   </a>
   <a href="https://twitter.com/[YOUR_TWITTER]">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/[YOUR_INSTAGRAM]">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:[YOUR_EMAIL]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
