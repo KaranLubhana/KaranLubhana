@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&size=25&center=true&vCenter=true&width=500&lines=Android+Developer;Creative+UI+Designer;Kotlin+Specialist;Jetpack+Compose+Maverick" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&size=25&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;Data+Analyst;Python+Specialist;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,19 +14,19 @@
 
 ### 🚀 About Me
 <div align="left">
-I'm a passionate **Android Developer** and **UI/UX enthusiast** with a deep love for creating fluid, beautiful user experiences. I specialize in **Jetpack Compose** and modern Android architecture. My recent focus has been on **Liquid Glass** aesthetics and advanced animation techniques.
+I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a passion for turning complex data into actionable insights. I specialize in building predictive models, data visualization, and deep learning architectures. I love exploring the intersection of AI and real-world problem-solving.
 </div>
 
-- 🔭 I’m currently working on a high-end **Music Player** and **Glassmorphism-inspired UI components**.
-- 🌱 I’m currently learning more about **Advanced Graphics in Compose** and **Performance Optimization**.
-- 🎨 I'm obsessed with **Aesthetics** and believe every pixel counts.
+- 🔭 I’m currently working on **Predictive Analytics** and **NLP-based sentiment analysis models**.
+- 🌱 I’m currently learning more about **Reinforcement Learning** and **Big Data Scalability**.
+- 📊 I'm obsessed with **Data Storytelling** and creating meaningful visualizations.
 
 ---
 
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,java,git,github,vscode,androidstudio,pwa,figma&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,mongodb,tensorflow,pytorch,sklearn,matlab,tableau&theme=dark" alt="Skill Icons" />
 </div>
 
 ---
