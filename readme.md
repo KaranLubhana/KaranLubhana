@@ -44,7 +44,7 @@ I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a
 ### 📊 Dashboard & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranLubhana&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranLubhana&show_icons=true&theme=catppuccin&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranLubhana&theme=catppuccin-mocha&hide_border=true" alt="Streak Stats" />
 </div>
 
