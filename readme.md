@@ -3,7 +3,7 @@
 </div>
 
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/type=soft&color=1e1e2e&height=200&section=header&text=Karan%20Lubhana&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=89b4fa" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e1e2e&height=200&section=header&text=Karan%20Lubhana&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=89b4fa" />
 </div>
 
 <div align="center">
@@ -44,8 +44,8 @@ I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a
 ### 📊 Dashboard & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranLubhana&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranLubhana&theme=catppuccin_mocha&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranLubhana&show_icons=true&theme=catppuccin&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KaranLubhana&theme=catppuccin&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
