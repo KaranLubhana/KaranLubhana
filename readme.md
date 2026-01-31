@@ -1,5 +1,9 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/type=soft&color=auto&height=300&section=header&text=Karan%20Lubhana&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <video src="https://v1.pinimg.com/videos/mc/720p/0f/3a/40/0f3a40f8053cb24b8599b44bf7db1693.mp4" width="100%" autoplay loop muted></video>
+</div>
+
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/type=soft&color=auto&height=200&section=header&text=Karan%20Lubhana&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <div align="center">
