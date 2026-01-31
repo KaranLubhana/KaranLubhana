@@ -1,4 +1,3 @@
-
 # <div align="center">Hi there, I'm Karan Lubhana! 👋</div>
 
 <div align="center">
@@ -40,6 +39,18 @@ I'm a passionate **Android Developer** and **UI/UX enthusiast** with a deep love
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranLubhana&theme=tokyonight" alt="Streak Stats">
+</div>
+
+---
+
+### 🎨 Contribution Art & 3D Graph
+
+<div align="center">
+  <img src="./github-contribution-grid-snake.svg" alt="Snake Game">
+</div>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
 </div>
 
 ---
