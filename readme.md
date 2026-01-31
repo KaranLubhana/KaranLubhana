@@ -43,6 +43,10 @@ I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a
 </div>
 
 <div align="center">
+  <img src="https://metrics.lecoq.io/KaranLubhana?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=half-year" alt="3D Contribution Graph" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranLubhana&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </div>
 
