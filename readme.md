@@ -3,49 +3,47 @@
 </div>
 
 <div align="center">
-  <h3>Hi there, I'm Karan Lubhana! 👋</h3>
-  <p>Android Developer | UI/UX Enthusiast | Kotlin Specialist</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&size=25&center=true&vCenter=true&width=500&lines=Android+Developer;Creative+UI+Designer;Kotlin+Specialist;Jetpack+Compose+Maverick" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaranLubhana&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
 
 ### 🚀 About Me
+<div align="left">
 I'm a passionate **Android Developer** and **UI/UX enthusiast** with a deep love for creating fluid, beautiful user experiences. I specialize in **Jetpack Compose** and modern Android architecture. My recent focus has been on **Liquid Glass** aesthetics and advanced animation techniques.
+</div>
 
 - 🔭 I’m currently working on a high-end **Music Player** and **Glassmorphism-inspired UI components**.
 - 🌱 I’m currently learning more about **Advanced Graphics in Compose** and **Performance Optimization**.
 - 🎨 I'm obsessed with **Aesthetics** and believe every pixel counts.
-- 💬 Ask me about **Kotlin, Jetpack Compose, and UI Design**.
 
 ---
 
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,java,git,github,vscode,androidstudio,pwa,figma&theme=dark" alt="Skill Icons" />
 </div>
 
 ---
 
-### 📊 Stats & Activity
+### 📊 Dashboard & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranLubhana&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranLubhana&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranLubhana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranLubhana&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranLubhana&theme=tokyonight" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranLubhana&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranLubhana&theme=tokyonight" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranLubhana&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -64,5 +62,7 @@ I'm a passionate **Android Developer** and **UI/UX enthusiast** with a deep love
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaranLubhana&label=Profile%20Views&color=4285F4&style=flat" alt="Visitor Count" />
+  <br>
   <sub>Generated with ❤️ by Antigravity 🌌</sub>
 </div>
