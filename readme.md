@@ -67,7 +67,7 @@ I'm a results-driven **Data Scientist** and **Machine Learning Engineer** with a
   <a href="https://www.linkedin.com/in/karan-lubhana-2a3781244/[YOUR_LINKEDIN]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/KaranLubhana/[YOUR_TWITTER]">
+  <a href="https://x.com/KaranLubhana/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.instagram.com/karan_lubana_09?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==[YOUR_INSTAGRAM]">
